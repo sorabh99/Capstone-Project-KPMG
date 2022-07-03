@@ -1,4 +1,4 @@
-# Capstone-project-KPMg
+# Capstone-project-KPMG
 Employee Atrition Analysis (HR_Project)
 In this project you will have to put yourself in the shoes of a data scientist and identify the factors 
 contributing to attrition of the employees and recommend possible solutions. 
